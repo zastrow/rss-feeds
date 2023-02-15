@@ -64,6 +64,7 @@
 		<outline text="Adam Simpson" title="Adam Simpson" description="" type="rss" version="RSS" htmlUrl="https://adamsimpson.net/" xmlUrl="https://adamsimpson.net/rss.xml"/>
 		<outline text="Bryan Braun" title="Bryan Braun" description="" type="rss" version="RSS" htmlUrl="https://www.bryanbraun.com/" xmlUrl="https://www.bryanbraun.com/rss.xml"/>
 		<outline text="Dustin Whisman" title="Dustin Whisman" description="" type="rss" version="RSS" htmlUrl="https://dustinwhisman.com/" xmlUrl="https://dustinwhisman.com/feed.xml"/>
+		<outline text="Erik Runyon" title="Erik Runyon" description="" type="rss" version="RSS" htmlUrl="https://erikrunyon.com.com/" xmlUrl="https://erikrunyon.com/feed.xml"/>
 		<outline text="John Nunemaker" title="John Nunemaker" description="" type="rss" version="RSS" htmlUrl="https://www.johnnunemaker.com/" xmlUrl="https://www.johnnunemaker.com/rss/"/>
 		<outline text="Nate Jacobs" title="Nate Jacobs" description="" type="rss" version="RSS" htmlUrl="https://nj.codes/" xmlUrl="https://nj.codes/rss.xml"/>
 	</outline>

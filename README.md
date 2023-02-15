@@ -61,6 +61,7 @@ Download the OMPL file to subscribe to these great sites!
 - **[Adam Simpson](https://adamsimpson.net)** - [[RSS](https://adamsimpson.net/rss.xml)]
 - **[Bryan Braun](https://www.bryanbraun.com)** - [[RSS](https://www.bryanbraun.com/rss.xml)]
 - **[Dustin Whisman](https://dustinwhisman.com)** - [[RSS](https://dustinwhisman.com/feed.xml)]
+- **[Erik Runyon](https://erikrunyon.com/)** - [[RSS](https://erikrunyon.com/feed.xml)]
 - **[John Nunemaker](https://www.johnnunemaker.com)** - [[RSS](https://www.johnnunemaker.com/rss/)]
 - **[Nate Jacobs](https://nj.codes)** - [[RSS](https://nj.codes/rss.xml)]
 
